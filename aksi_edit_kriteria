@@ -1,0 +1,13 @@
+<?php
+include 'koneksi.php';
+
+$id = $_POST['id'];
+$kode = $_POST['kode'];
+$nama = $_POST['nama'];
+$jenis = $_POST['jenis'];
+
+$query = "UPDATE kriteria SET kode_kriteria='$kode', nama_kriteria='$nama', jenis='$jenis' WHERE id_kriteria=$id";
+mysqli_query($conn, $query);
+
+header("location:kriteria.php");
+exit();
