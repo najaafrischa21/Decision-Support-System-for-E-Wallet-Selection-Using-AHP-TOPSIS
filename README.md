@@ -31,7 +31,8 @@ Data yang digunakan merupakan data primer yang dikumpulkan melalui kuesioner. Ku
 **4. Menginput data hasil kuesioner ke dalam sistem untuk menghasilkan rekomendasi e-wallet terbaik.**
 
 ## Halaman Tampilan Website
-tolong bilang beberapa halaman
+Berikut merupakan beberapa halaman utama pada aplikasi Sistem Pendukung Keputusan berbasis web yang digunakan untuk mengelola data, melakukan proses perhitungan AHP-TOPSIS, dan menampilkan hasil rekomendasi e-wallet.
+
 **1. Halaman Login.**
 <p align="center">
     <img width="605" height="273" alt="image" src="https://github.com/user-attachments/assets/5fe442cb-c2db-4ce4-8c28-85c5c0e3af1e" />
