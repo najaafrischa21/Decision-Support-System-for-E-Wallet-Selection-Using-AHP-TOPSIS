@@ -1,0 +1,2 @@
+# Decision-Support-System-for-E-Wallet-Selection-Using-AHP-TOPSIS
+Sistem Pendukung Keputusan berbasis web yang mengimplementasikan metode AHP-TOPSIS untuk mengevaluasi dan memberi peringkat alternatif e-wallet. Sistem menganalisis tiga alternatif, yaitu GoPay, ShopeePay, dan DANA, berdasarkan kriteria rating, keamanan, promo, dan kemudahan penggunaan guna menghasilkan rekomendasi e-wallet yang paling sesuai.
